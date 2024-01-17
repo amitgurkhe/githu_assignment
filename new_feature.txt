@@ -1,0 +1,2 @@
+added a first line in new feature text
+second line in new feature 
